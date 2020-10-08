@@ -14,7 +14,7 @@ Framework: Bootstrap
 
 Code Editors: Sublime, Notepad++
 
-Application Servers: Apache Tomcat, XAMP/WAMP
+Application Servers: Apache Tomcat, XAMPP/WAMP
 
 Database: Oracle, MySQL
 
@@ -22,4 +22,3 @@ Operating Systems: Windows, Linux
 
 Graphic design: Adobe Photoshop, Canva 
 
-Frontend Developer with 6 months of experience in designing and developing User Interfaces within Professional Website. Proven ability in optimizing web functionalities that improve data retrieval and workflow effeciences.
